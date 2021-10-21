@@ -8,10 +8,10 @@ To run the code, it is preferable to first create an Anaconda environment and in
 
 After the set up is complete, the code can be run from the main file. As an example, the conda environment created is called SoundClassification_Misty.
 1. Navigate to the directroy where the main file and helper classes are present using the terminal
-  $cd Desktop
-  $cd SoundClassification
+  - $cd Desktop
+  - $cd SoundClassification
 2. Activate the conda environment
-  $conda activate SoundClassification_Misty
+  - $conda activate SoundClassification_Misty
   
 Then, launch the Visual Studio Code. 
 
