@@ -1,10 +1,10 @@
-# Project-ListenBot (Sound Source Localization)
+# Project-ListenBot (Sound Source Classification and Localization)
 This repo contains code for the ListenBot project
 [Code to record, classify, localize sounds and then move Misty II robot towards the sound source.]
 
 To run the code, it is preferable to first create an Anaconda environment and install various packages. The minimum packages to be isntalled are:
 1. Packages related to Misty II Python SDK: https://pypi.org/project/Misty-SDK/. The detailed instructions and examples can be found at these links: https://prabhjotkaurgosal.com/getting-started-with-misty-ii-robot-and-its-python-sdk-page2/ and https://github.com/MistyCommunity/Python-SDK
-2. Packagees related to sound classification using PANNs Inference. The instructions can be found here: https://github.com/qiuqiangkong/panns_inference
+2. Packages related to sound classification using PANNs Inference. The instructions can be found here: https://github.com/qiuqiangkong/panns_inference
 
 After the set up is complete, the code can be run from the main file. As an example, the conda environment created is called SoundClassification_Misty.
 1. Navigate to the directroy where the main file and helper classes are present using the terminal
